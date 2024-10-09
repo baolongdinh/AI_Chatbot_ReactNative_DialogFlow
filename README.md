@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-NPM / Yarn and Node.js installed
+NPM / EXPO and Node.js installed
 
 ### Installing
 
